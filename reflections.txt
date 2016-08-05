@@ -5,4 +5,9 @@ You've learned a lot about web development so far. I want you to take a moment t
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 
-It was cool to brush up my html skills and i've learned a couple of new tags.
+- It was cool to brush up my html skills and i've learned a couple of new tags.
+- My learning curve might look strange. I actually finished all but one more project. So pure html was easy;
+- Nothing difficult.(see previous line);
+- Considering the complexity of this project i was able to do it in one go. As always, having a clear picture of what is needed helped a lot.
+
+Thank you. 
